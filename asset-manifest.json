@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mern-super-stonks/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mern-super-stonks/static/js/main.e49541dd.chunk.js",
+    "main.js.map": "/mern-super-stonks/static/js/main.e49541dd.chunk.js.map",
+    "runtime-main.js": "/mern-super-stonks/static/js/runtime-main.a8badd17.js",
+    "runtime-main.js.map": "/mern-super-stonks/static/js/runtime-main.a8badd17.js.map",
+    "static/js/2.2b063f49.chunk.js": "/mern-super-stonks/static/js/2.2b063f49.chunk.js",
+    "static/js/2.2b063f49.chunk.js.map": "/mern-super-stonks/static/js/2.2b063f49.chunk.js.map",
+    "index.html": "/mern-super-stonks/index.html",
+    "precache-manifest.1e775c4a556fa90429053c50cd5c5933.js": "/mern-super-stonks/precache-manifest.1e775c4a556fa90429053c50cd5c5933.js",
+    "service-worker.js": "/mern-super-stonks/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mern-super-stonks/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2b063f49.chunk.js.LICENSE.txt": "/mern-super-stonks/static/js/2.2b063f49.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mern-super-stonks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8badd17.js",
+    "static/js/2.2b063f49.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e49541dd.chunk.js"
+  ]
+}
